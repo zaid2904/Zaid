@@ -1,3 +1,4 @@
+![logo](https://github.com/zaid2904/Zaid/blob/main/Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddiqui Zaid</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
